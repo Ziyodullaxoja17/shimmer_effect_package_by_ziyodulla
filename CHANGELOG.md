@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.1] - Initial Release
+## [1.0.0] - Initial Release
 - Added `ShimmerContainer` widget.
 - Supports custom shimmer colors.
 - Allows adjusting animation speed.

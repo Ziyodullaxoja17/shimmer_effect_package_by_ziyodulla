@@ -1,10 +1,9 @@
-name: shimmer_effect_package_by_ziyodulla
+name: shimmer_container
 description: A simple Flutter package for adding a shimmer loading effect to any widget.
-version: 0.0.1
-repository: https://github.com/yourusername/shimmer_container  # Replace with your actual repo
-homepage: https://github.com/yourusername/shimmer_container
-issue_tracker: https://github.com/yourusername/shimmer_container/issues
-author: Devu't <tursunboyevziyodulla30@gmail.com>  # Replace with your email
+version: 1.0.0
+repository: https://github.com/Ziyodullaxoja17/shimmer_effect_package_by_ziyodulla  # Replace with your actual repo
+homepage: https://github.com/Ziyodullaxoja17/shimmer_effect_package_by_ziyodulla
+issue_tracker: https://github.com/Ziyodullaxoja17/shimmer_effect_by_ziyodulla/issues
 license: MIT
 
 environment:
@@ -22,7 +21,7 @@ dev_dependencies:
 
 flutter:
   assets:
-    - assets/  
+    # - assets/  # If you plan to add images or sample assets
 
 topics:
   - shimmer
