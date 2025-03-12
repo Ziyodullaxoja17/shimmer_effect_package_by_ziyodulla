@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:shimmer_container/shimmer_efffect_package_by_ziyodulla.dart';
+import 'package:shimmer_effect_package_by_ziyodulla/shimmer_effect_package_by_ziyodulla.dart';
 
 void main() {
   testWidgets('ShimmerContainer applies shimmer effect',

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shimmer_container/shimmer_efffect_package_by_ziyodulla.dart';
+import 'package:shimmer_effect_package_by_ziyodulla/shimmer_effect_package_by_ziyodulla.dart';
 
 void main() {
   runApp(ExampleApp());
